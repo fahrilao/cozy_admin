@@ -1,5 +1,7 @@
-#About This App
-Cozy Template is beautiful template from LangIT studio.
+# Cozy Admin Template
+
+## About This App
+Cozy Admin Template is most beautiful template by LangIT Studio.
 
 ## Color Palette
 1. \#664F5C, \#FFB1DE, \#E6B1D0, \#786670, \#B389A1 // Read
@@ -7,3 +9,12 @@ Cozy Template is beautiful template from LangIT studio.
 3. \#4F6652, \#C5FECD, \#B1E6B8, \#667868, \#89B38F // Green
 
 ## Font
+- Quicksand
+
+## Vendors
+Jquery, Bootstrap v4.1, etc.
+
+## Authors
+- Antheirmas
+- Bullseye
+- Dableg Coblan
